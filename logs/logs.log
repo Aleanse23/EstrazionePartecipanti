@@ -1,246 +1,654 @@
-[INFO ] 2023-12-01 11:45:44.785 [main] EstrazionePartecipantiModello - Tabella creata con successo
-[INFO ] 2023-12-01 11:45:44.789 [main] EstrazionePartecipantiModello - Christian 
-[INFO ] 2023-12-01 11:45:44.789 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:45:44.789 [main] EstrazionePartecipantiModello - Vincenzo 
-[INFO ] 2023-12-01 11:45:44.789 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:45:44.789 [main] EstrazionePartecipantiModello - Matteo 
-[INFO ] 2023-12-01 11:45:44.790 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:45:44.790 [main] EstrazionePartecipantiModello - Greta 
-[INFO ] 2023-12-01 11:45:44.790 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:45:44.790 [main] EstrazionePartecipantiModello - Andrea 
-[INFO ] 2023-12-01 11:45:44.790 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:45:44.790 [main] EstrazionePartecipantiModello - Edoardo 
-[INFO ] 2023-12-01 11:45:44.790 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Marco 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Eleonora 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Giuseppe 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Gianmarco 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Simone 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Giulia C 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Giulia G 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:45:44.791 [main] EstrazionePartecipantiModello - Antonio 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Alessandro 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Daniele 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Claudioalberto 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Giancarlo 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Michele 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Salvatore 
-[INFO ] 2023-12-01 11:45:44.792 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:45:44.793 [main] EstrazionePartecipantiModello - Anselmo 
-[INFO ] 2023-12-01 11:45:44.793 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:45:44.797 [main] EstrazionePartecipantiModello - Dino 
-[INFO ] 2023-12-01 11:45:44.798 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:45:44.798 [main] EstrazionePartecipantiModello - Lorena 
-[INFO ] 2023-12-01 11:45:44.798 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:45:44.798 [main] EstrazionePartecipantiModello - Manuela 
-[INFO ] 2023-12-01 11:45:44.798 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:45:44.798 [main] EstrazionePartecipantiModello - Simone 
-[INFO ] 2023-12-01 11:45:44.798 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:45:44.798 [main] EstrazionePartecipantiModello - Matteo 
-[INFO ] 2023-12-01 11:45:44.798 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:45:44.798 [main] EstrazionePartecipantiModello - File CSV letto correttamente
-[INFO ] 2023-12-01 11:45:44.921 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
-[INFO ] 2023-12-01 11:45:44.941 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:45:44.948 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:45:44.955 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:45:44.960 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:45:44.967 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[ERROR] 2023-12-01 11:45:45.027 [main] EstrazionePartecipantiModello - Errore file non trovato in stampaPDFConEstrazioni
-[INFO ] 2023-12-01 11:45:45.061 [main] EstrazionePartecipantiModello - Processo riinizializzato
-[INFO ] 2023-12-01 11:47:38.968 [main] EstrazionePartecipantiModello - Tabella creata con successo
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Christian 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Vincenzo 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Matteo 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Greta 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Andrea 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Edoardo 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:47:38.972 [main] EstrazionePartecipantiModello - Marco 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Eleonora 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Giuseppe 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Gianmarco 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Simone 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Giulia C 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Giulia G 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Antonio 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Alessandro 
-[INFO ] 2023-12-01 11:47:38.973 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Daniele 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Claudioalberto 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Giancarlo 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Michele 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Salvatore 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Anselmo 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Dino 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Lorena 
-[INFO ] 2023-12-01 11:47:38.974 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:47:38.975 [main] EstrazionePartecipantiModello - Manuela 
-[INFO ] 2023-12-01 11:47:38.975 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:47:38.975 [main] EstrazionePartecipantiModello - Simone 
-[INFO ] 2023-12-01 11:47:38.975 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:47:38.975 [main] EstrazionePartecipantiModello - Matteo 
-[INFO ] 2023-12-01 11:47:38.975 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:47:38.975 [main] EstrazionePartecipantiModello - File CSV letto correttamente
-[INFO ] 2023-12-01 11:47:39.099 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
-[INFO ] 2023-12-01 11:47:39.119 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:47:39.125 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:47:39.131 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:47:39.137 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:47:39.144 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:47:39.509 [main] EstrazionePartecipantiModello - Processo riinizializzato
-[INFO ] 2023-12-01 11:50:51.451 [main] EstrazionePartecipantiModello - Tabella creata con successo
-[INFO ] 2023-12-01 11:50:51.455 [main] EstrazionePartecipantiModello - Christian 
-[INFO ] 2023-12-01 11:50:51.455 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:50:51.455 [main] EstrazionePartecipantiModello - Vincenzo 
-[INFO ] 2023-12-01 11:50:51.455 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Matteo 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Greta 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Andrea 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Edoardo 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Marco 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Eleonora 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Giuseppe 
-[INFO ] 2023-12-01 11:50:51.456 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:50:51.457 [main] EstrazionePartecipantiModello - Gianmarco 
-[INFO ] 2023-12-01 11:50:51.457 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:50:51.457 [main] EstrazionePartecipantiModello - Simone 
-[INFO ] 2023-12-01 11:50:51.457 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:50:51.457 [main] EstrazionePartecipantiModello - Giulia C 
-[INFO ] 2023-12-01 11:50:51.457 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:50:51.457 [main] EstrazionePartecipantiModello - Giulia G 
-[INFO ] 2023-12-01 11:50:51.457 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:50:51.457 [main] EstrazionePartecipantiModello - Antonio 
-[INFO ] 2023-12-01 11:50:51.457 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Alessandro 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Daniele 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Claudioalberto 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Giancarlo 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Michele 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Salvatore 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Anselmo 
-[INFO ] 2023-12-01 11:50:51.458 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - Dino 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - Lorena 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - Manuela 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - Simone 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - Matteo 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:50:51.459 [main] EstrazionePartecipantiModello - File CSV letto correttamente
-[INFO ] 2023-12-01 11:50:51.582 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
-[INFO ] 2023-12-01 11:50:51.604 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:50:51.610 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:50:51.618 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:50:51.624 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:50:51.630 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:50:51.950 [main] EstrazionePartecipantiModello - Processo riinizializzato
-[INFO ] 2023-12-01 11:53:52.041 [main] EstrazionePartecipantiModello - Tabella creata con successo
-[INFO ] 2023-12-01 11:53:52.047 [main] EstrazionePartecipantiModello - Christian 
-[INFO ] 2023-12-01 11:53:52.047 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:53:52.047 [main] EstrazionePartecipantiModello - Vincenzo 
-[INFO ] 2023-12-01 11:53:52.047 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:53:52.047 [main] EstrazionePartecipantiModello - Matteo 
-[INFO ] 2023-12-01 11:53:52.047 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:53:52.047 [main] EstrazionePartecipantiModello - Greta 
-[INFO ] 2023-12-01 11:53:52.047 [main] EstrazionePartecipantiModello - Milano 
-[INFO ] 2023-12-01 11:53:52.047 [main] EstrazionePartecipantiModello - Andrea 
-[INFO ] 2023-12-01 11:53:52.047 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Edoardo 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Marco 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Eleonora 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Treviso 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Giuseppe 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Gianmarco 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Simone 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Roma 
-[INFO ] 2023-12-01 11:53:52.048 [main] EstrazionePartecipantiModello - Giulia C 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Giulia G 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Antonio 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Alessandro 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Padova 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Daniele 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Claudioalberto 
-[INFO ] 2023-12-01 11:53:52.049 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Giancarlo 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Michele 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Salvatore 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Bari 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Anselmo 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Dino 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:53:52.050 [main] EstrazionePartecipantiModello - Lorena 
-[INFO ] 2023-12-01 11:53:52.051 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:53:52.051 [main] EstrazionePartecipantiModello - Manuela 
-[INFO ] 2023-12-01 11:53:52.051 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:53:52.051 [main] EstrazionePartecipantiModello - Simone 
-[INFO ] 2023-12-01 11:53:52.051 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:53:52.051 [main] EstrazionePartecipantiModello - Matteo 
-[INFO ] 2023-12-01 11:53:52.051 [main] EstrazionePartecipantiModello - Torino 
-[INFO ] 2023-12-01 11:53:52.051 [main] EstrazionePartecipantiModello - File CSV letto correttamente
-[INFO ] 2023-12-01 11:53:52.209 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
-[INFO ] 2023-12-01 11:53:52.235 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:53:52.240 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:53:52.246 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:53:52.251 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:53:52.257 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:53:52.263 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
-[INFO ] 2023-12-01 11:53:52.605 [main] EstrazionePartecipantiModello - Processo riinizializzato
+[INFO ] 2023-12-06 12:17:11.537 [main] EstrazionePartecipantiModello - Tabelle create con successo
+[INFO ] 2023-12-06 12:17:11.543 [main] EstrazionePartecipantiModello - Christian 
+[INFO ] 2023-12-06 12:17:11.544 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:17:11.544 [main] EstrazionePartecipantiModello - Vincenzo 
+[INFO ] 2023-12-06 12:17:11.544 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:17:11.544 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:17:11.544 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:17:11.544 [main] EstrazionePartecipantiModello - Greta 
+[INFO ] 2023-12-06 12:17:11.544 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:17:11.544 [main] EstrazionePartecipantiModello - Andrea 
+[INFO ] 2023-12-06 12:17:11.544 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Edoardo 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Marco 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Eleonora 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Giuseppe 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Gianmarco 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Giulia C 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Giulia G 
+[INFO ] 2023-12-06 12:17:11.545 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Antonio 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Alessandro 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Daniele 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Claudioalberto 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Giancarlo 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Michele 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Salvatore 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:17:11.546 [main] EstrazionePartecipantiModello - Anselmo 
+[INFO ] 2023-12-06 12:17:11.551 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - Dino 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - Lorena 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - Manuela 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:17:11.552 [main] EstrazionePartecipantiModello - File CSV letto correttamente
+[INFO ] 2023-12-06 12:17:11.680 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
+[INFO ] 2023-12-06 12:17:11.748 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:17:11.804 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:17:11.844 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:17:11.884 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:17:11.930 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[ERROR] 2023-12-06 12:17:12.008 [main] EstrazionePartecipantiModello - Errore connessione non riuscita in stampaPDFConEstrazioni
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY Nome, Citta ORDER BY NumeroOccorrenze DESC' at line 1
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121) ~[mysql-connector-j-8.2.0.jar:8.2.0]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-j-8.2.0.jar:8.2.0]
+	at com.mysql.cj.jdbc.StatementImpl.executeQuery(StatementImpl.java:1201) ~[mysql-connector-j-8.2.0.jar:8.2.0]
+	at it.betacom.estrazionepartecipanti.model.EstrazionePartecipantiModello.stampaPDFConEstrazioni(EstrazionePartecipantiModello.java:212) [classes/:?]
+	at it.betacom.estrazionepartecipanti.main.EstrazionePartecipantiMain.main(EstrazionePartecipantiMain.java:13) [classes/:?]
+[INFO ] 2023-12-06 12:19:17.600 [main] EstrazionePartecipantiModello - Tabelle create con successo
+[INFO ] 2023-12-06 12:19:17.605 [main] EstrazionePartecipantiModello - Christian 
+[INFO ] 2023-12-06 12:19:17.605 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:19:17.605 [main] EstrazionePartecipantiModello - Vincenzo 
+[INFO ] 2023-12-06 12:19:17.605 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:19:17.605 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:19:17.605 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:19:17.605 [main] EstrazionePartecipantiModello - Greta 
+[INFO ] 2023-12-06 12:19:17.605 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Andrea 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Edoardo 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Marco 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Eleonora 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Giuseppe 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Gianmarco 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Giulia C 
+[INFO ] 2023-12-06 12:19:17.606 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Giulia G 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Antonio 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Alessandro 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Daniele 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Claudioalberto 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Giancarlo 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Michele 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Salvatore 
+[INFO ] 2023-12-06 12:19:17.607 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Anselmo 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Dino 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Lorena 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Manuela 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:19:17.613 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:19:17.614 [main] EstrazionePartecipantiModello - File CSV letto correttamente
+[INFO ] 2023-12-06 12:19:17.750 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
+[INFO ] 2023-12-06 12:19:17.808 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:19:17.849 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:19:17.889 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:19:17.930 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:19:17.980 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[ERROR] 2023-12-06 12:20:19.860 [main] EstrazionePartecipantiModello - Tabelle non create, errore: Table 'partecipanti' already exists
+[INFO ] 2023-12-06 12:20:19.866 [main] EstrazionePartecipantiModello - Christian 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Vincenzo 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Greta 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Andrea 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Edoardo 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Marco 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:20:19.867 [main] EstrazionePartecipantiModello - Eleonora 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Giuseppe 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Gianmarco 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Giulia C 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Giulia G 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Antonio 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Alessandro 
+[INFO ] 2023-12-06 12:20:19.868 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Daniele 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Claudioalberto 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Giancarlo 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Michele 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Salvatore 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Anselmo 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Dino 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:20:19.869 [main] EstrazionePartecipantiModello - Lorena 
+[INFO ] 2023-12-06 12:20:19.870 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:20:19.874 [main] EstrazionePartecipantiModello - Manuela 
+[INFO ] 2023-12-06 12:20:19.875 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:20:19.875 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:20:19.875 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:20:19.875 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:20:19.876 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:20:19.876 [main] EstrazionePartecipantiModello - File CSV letto correttamente
+[INFO ] 2023-12-06 12:20:20.039 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
+[INFO ] 2023-12-06 12:20:20.102 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:20:20.143 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:20:20.191 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:20:20.231 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:20:20.273 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:14.519 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:14.601 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:14.644 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:14.686 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:14.727 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:19.770 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:19.819 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:19.863 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:19.902 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:19.942 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:23.557 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:23.642 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:23.683 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:23.722 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:21:23.761 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[ERROR] 2023-12-06 12:35:41.592 [main] EstrazionePartecipantiModello - Tabelle non create, errore: Table 'partecipanti' already exists
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Christian 
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Vincenzo 
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Greta 
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Andrea 
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:35:41.598 [main] EstrazionePartecipantiModello - Edoardo 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Marco 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Eleonora 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Giuseppe 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Gianmarco 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Giulia C 
+[INFO ] 2023-12-06 12:35:41.599 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Giulia G 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Antonio 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Alessandro 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Daniele 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Claudioalberto 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Giancarlo 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Michele 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Salvatore 
+[INFO ] 2023-12-06 12:35:41.600 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:35:41.601 [main] EstrazionePartecipantiModello - Anselmo 
+[INFO ] 2023-12-06 12:35:41.601 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:35:41.601 [main] EstrazionePartecipantiModello - Dino 
+[INFO ] 2023-12-06 12:35:41.601 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:35:41.601 [main] EstrazionePartecipantiModello - Lorena 
+[INFO ] 2023-12-06 12:35:41.606 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:35:41.606 [main] EstrazionePartecipantiModello - Manuela 
+[INFO ] 2023-12-06 12:35:41.606 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:35:41.606 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:35:41.606 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:35:41.606 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:35:41.606 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:35:41.606 [main] EstrazionePartecipantiModello - File CSV letto correttamente
+[INFO ] 2023-12-06 12:35:41.829 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
+[INFO ] 2023-12-06 12:35:47.941 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:35:47.982 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:35:48.025 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:35:48.068 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:35:48.119 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[ERROR] 2023-12-06 12:36:33.763 [main] EstrazionePartecipantiModello - Tabelle non create, errore: Table 'partecipanti' already exists
+[INFO ] 2023-12-06 12:36:33.768 [main] EstrazionePartecipantiModello - Christian 
+[INFO ] 2023-12-06 12:36:33.768 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:36:33.768 [main] EstrazionePartecipantiModello - Vincenzo 
+[INFO ] 2023-12-06 12:36:33.768 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:36:33.768 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:36:33.768 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Greta 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Andrea 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Edoardo 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Marco 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Eleonora 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:36:33.769 [main] EstrazionePartecipantiModello - Giuseppe 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Gianmarco 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Giulia C 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Giulia G 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Antonio 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:36:33.770 [main] EstrazionePartecipantiModello - Alessandro 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Daniele 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Claudioalberto 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Giancarlo 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Michele 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Salvatore 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Anselmo 
+[INFO ] 2023-12-06 12:36:33.771 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:33.772 [main] EstrazionePartecipantiModello - Dino 
+[INFO ] 2023-12-06 12:36:33.772 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:33.772 [main] EstrazionePartecipantiModello - Lorena 
+[INFO ] 2023-12-06 12:36:33.777 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:33.777 [main] EstrazionePartecipantiModello - Manuela 
+[INFO ] 2023-12-06 12:36:33.777 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:33.777 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:36:33.777 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:33.778 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:36:33.778 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:33.778 [main] EstrazionePartecipantiModello - File CSV letto correttamente
+[INFO ] 2023-12-06 12:36:33.971 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
+[INFO ] 2023-12-06 12:36:36.798 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:36:36.842 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:36:36.884 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:36:36.930 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:36:36.975 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[ERROR] 2023-12-06 12:36:58.161 [main] EstrazionePartecipantiModello - Tabelle non create, errore: Table 'partecipanti' already exists
+[INFO ] 2023-12-06 12:36:58.166 [main] EstrazionePartecipantiModello - Christian 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Vincenzo 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Greta 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Andrea 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Edoardo 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Marco 
+[INFO ] 2023-12-06 12:36:58.167 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:36:58.168 [main] EstrazionePartecipantiModello - Eleonora 
+[INFO ] 2023-12-06 12:36:58.168 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:36:58.168 [main] EstrazionePartecipantiModello - Giuseppe 
+[INFO ] 2023-12-06 12:36:58.168 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:36:58.168 [main] EstrazionePartecipantiModello - Gianmarco 
+[INFO ] 2023-12-06 12:36:58.168 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:36:58.168 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:36:58.168 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Giulia C 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Giulia G 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Antonio 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Alessandro 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Daniele 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:36:58.169 [main] EstrazionePartecipantiModello - Claudioalberto 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Giancarlo 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Michele 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Salvatore 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Anselmo 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Dino 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:58.170 [main] EstrazionePartecipantiModello - Lorena 
+[INFO ] 2023-12-06 12:36:58.176 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:58.176 [main] EstrazionePartecipantiModello - Manuela 
+[INFO ] 2023-12-06 12:36:58.176 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:58.176 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:36:58.176 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:58.176 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:36:58.176 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:36:58.176 [main] EstrazionePartecipantiModello - File CSV letto correttamente
+[INFO ] 2023-12-06 12:36:58.364 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
+[INFO ] 2023-12-06 12:37:00.062 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:37:00.116 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:37:00.163 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:37:00.204 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:37:00.247 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[ERROR] 2023-12-06 12:41:48.834 [main] EstrazionePartecipantiModello - Tabelle non create, errore: Table 'partecipanti' already exists
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Christian 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Vincenzo 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Greta 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Andrea 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Edoardo 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Marco 
+[INFO ] 2023-12-06 12:41:48.840 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:41:48.841 [main] EstrazionePartecipantiModello - Eleonora 
+[INFO ] 2023-12-06 12:41:48.841 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:41:48.841 [main] EstrazionePartecipantiModello - Giuseppe 
+[INFO ] 2023-12-06 12:41:48.841 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:41:48.841 [main] EstrazionePartecipantiModello - Gianmarco 
+[INFO ] 2023-12-06 12:41:48.841 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:41:48.841 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:41:48.841 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:41:48.841 [main] EstrazionePartecipantiModello - Giulia C 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Giulia G 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Antonio 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Alessandro 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Daniele 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Claudioalberto 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Giancarlo 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:41:48.842 [main] EstrazionePartecipantiModello - Michele 
+[INFO ] 2023-12-06 12:41:48.843 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:41:48.843 [main] EstrazionePartecipantiModello - Salvatore 
+[INFO ] 2023-12-06 12:41:48.843 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:41:48.843 [main] EstrazionePartecipantiModello - Anselmo 
+[INFO ] 2023-12-06 12:41:48.843 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:41:48.843 [main] EstrazionePartecipantiModello - Dino 
+[INFO ] 2023-12-06 12:41:48.843 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:41:48.843 [main] EstrazionePartecipantiModello - Lorena 
+[INFO ] 2023-12-06 12:41:48.847 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:41:48.847 [main] EstrazionePartecipantiModello - Manuela 
+[INFO ] 2023-12-06 12:41:48.847 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:41:48.847 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:41:48.847 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:41:48.847 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:41:48.848 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:41:48.848 [main] EstrazionePartecipantiModello - File CSV letto correttamente
+[INFO ] 2023-12-06 12:41:49.035 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
+[INFO ] 2023-12-06 12:41:53.024 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:41:53.069 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:41:53.118 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:41:53.159 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:41:53.200 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:42:01.581 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:42:01.623 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:42:01.661 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:42:01.712 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:42:01.749 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:45:59.855 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:45:59.891 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:45:59.926 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:45:59.961 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:45:59.996 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:46:01.795 [main] EstrazionePartecipantiModello - Processo riinizializzato
+[INFO ] 2023-12-06 12:46:53.468 [main] EstrazionePartecipantiModello - Tabelle create con successo
+[INFO ] 2023-12-06 12:46:53.473 [main] EstrazionePartecipantiModello - Christian 
+[INFO ] 2023-12-06 12:46:53.473 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:46:53.473 [main] EstrazionePartecipantiModello - Vincenzo 
+[INFO ] 2023-12-06 12:46:53.473 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:46:53.473 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:46:53.473 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Greta 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Andrea 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Edoardo 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Marco 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Eleonora 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Giuseppe 
+[INFO ] 2023-12-06 12:46:53.474 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Gianmarco 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Giulia C 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Giulia G 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Antonio 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:46:53.475 [main] EstrazionePartecipantiModello - Alessandro 
+[INFO ] 2023-12-06 12:46:53.476 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:46:53.476 [main] EstrazionePartecipantiModello - Daniele 
+[INFO ] 2023-12-06 12:46:53.476 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:46:53.476 [main] EstrazionePartecipantiModello - Claudioalberto 
+[INFO ] 2023-12-06 12:46:53.476 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:46:53.476 [main] EstrazionePartecipantiModello - Giancarlo 
+[INFO ] 2023-12-06 12:46:53.476 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:46:53.476 [main] EstrazionePartecipantiModello - Michele 
+[INFO ] 2023-12-06 12:46:53.476 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:46:53.476 [main] EstrazionePartecipantiModello - Salvatore 
+[INFO ] 2023-12-06 12:46:53.480 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Anselmo 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Dino 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Lorena 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Manuela 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:46:53.482 [main] EstrazionePartecipantiModello - File CSV letto correttamente
+[INFO ] 2023-12-06 12:46:53.627 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
+[INFO ] 2023-12-06 12:47:09.468 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:47:09.509 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:47:09.555 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:47:09.599 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:47:09.650 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:47:17.934 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:47:17.979 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:47:18.016 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:47:18.053 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:47:18.102 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:47:22.617 [main] EstrazionePartecipantiModello - Processo riinizializzato
+[INFO ] 2023-12-06 12:49:32.612 [main] EstrazionePartecipantiModello - Tabelle create con successo
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Christian 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Vincenzo 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Greta 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Andrea 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Edoardo 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:49:32.617 [main] EstrazionePartecipantiModello - Marco 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Eleonora 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Giuseppe 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Gianmarco 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Giulia C 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Giulia G 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:49:32.618 [main] EstrazionePartecipantiModello - Antonio 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Alessandro 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Daniele 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Claudioalberto 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Giancarlo 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Michele 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:49:32.619 [main] EstrazionePartecipantiModello - Salvatore 
+[INFO ] 2023-12-06 12:49:32.624 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:49:32.624 [main] EstrazionePartecipantiModello - Anselmo 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Dino 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Lorena 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Manuela 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:49:32.625 [main] EstrazionePartecipantiModello - File CSV letto correttamente
+[INFO ] 2023-12-06 12:49:32.767 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
+[INFO ] 2023-12-06 12:49:35.075 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:49:35.115 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:49:35.154 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:49:35.195 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:49:35.236 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:49:41.546 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:49:41.590 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:49:41.629 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:49:41.663 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:49:41.713 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:50:47.591 [main] EstrazionePartecipantiModello - Tabelle create con successo
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Christian 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Vincenzo 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Greta 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Milano 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Andrea 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Edoardo 
+[INFO ] 2023-12-06 12:50:47.597 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:50:47.598 [main] EstrazionePartecipantiModello - Marco 
+[INFO ] 2023-12-06 12:50:47.598 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:50:47.598 [main] EstrazionePartecipantiModello - Eleonora 
+[INFO ] 2023-12-06 12:50:47.598 [main] EstrazionePartecipantiModello - Treviso 
+[INFO ] 2023-12-06 12:50:47.598 [main] EstrazionePartecipantiModello - Giuseppe 
+[INFO ] 2023-12-06 12:50:47.598 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:50:47.598 [main] EstrazionePartecipantiModello - Gianmarco 
+[INFO ] 2023-12-06 12:50:47.598 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:50:47.598 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:50:47.598 [main] EstrazionePartecipantiModello - Roma 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Giulia C 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Giulia G 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Antonio 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Alessandro 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Padova 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Daniele 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Claudioalberto 
+[INFO ] 2023-12-06 12:50:47.599 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:50:47.600 [main] EstrazionePartecipantiModello - Giancarlo 
+[INFO ] 2023-12-06 12:50:47.600 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:50:47.600 [main] EstrazionePartecipantiModello - Michele 
+[INFO ] 2023-12-06 12:50:47.600 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:50:47.600 [main] EstrazionePartecipantiModello - Salvatore 
+[INFO ] 2023-12-06 12:50:47.605 [main] EstrazionePartecipantiModello - Bari 
+[INFO ] 2023-12-06 12:50:47.605 [main] EstrazionePartecipantiModello - Anselmo 
+[INFO ] 2023-12-06 12:50:47.605 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:50:47.605 [main] EstrazionePartecipantiModello - Dino 
+[INFO ] 2023-12-06 12:50:47.606 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:50:47.606 [main] EstrazionePartecipantiModello - Lorena 
+[INFO ] 2023-12-06 12:50:47.606 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:50:47.606 [main] EstrazionePartecipantiModello - Manuela 
+[INFO ] 2023-12-06 12:50:47.606 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:50:47.606 [main] EstrazionePartecipantiModello - Simone 
+[INFO ] 2023-12-06 12:50:47.606 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:50:47.606 [main] EstrazionePartecipantiModello - Matteo 
+[INFO ] 2023-12-06 12:50:47.606 [main] EstrazionePartecipantiModello - Torino 
+[INFO ] 2023-12-06 12:50:47.606 [main] EstrazionePartecipantiModello - File CSV letto correttamente
+[INFO ] 2023-12-06 12:50:47.789 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella partecipanti
+[INFO ] 2023-12-06 12:50:50.089 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:50:50.132 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:50:50.175 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:50:50.214 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:50:50.260 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:51:08.538 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:51:08.580 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:51:08.617 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:51:08.650 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:51:08.700 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:51:14.519 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:51:14.553 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:51:14.586 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:51:14.618 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione
+[INFO ] 2023-12-06 12:51:14.652 [main] EstrazionePartecipantiModello - Dati inseriti correttamente nella tabella estrazione

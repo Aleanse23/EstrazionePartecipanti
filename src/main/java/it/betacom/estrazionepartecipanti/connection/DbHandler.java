@@ -13,13 +13,22 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class DbHandler {
-	
+
 	private static final String path = "./src/main/resources/db.properties";
-	private Connection connection;
+	private static Connection connection;
 	private static final DbHandler instance = new DbHandler();
 	private static final Logger logger = LogManager.getLogger(DbHandler.class);
-	
+
 	private DbHandler() {
+	}
+
+	public static DbHandler getInstance() {
+		return instance;
+	}
+
+	// cambiato la getConnection cosicche apra una connessione ogni volta che chiamo
+	// la getConnection
+	public Connection getConnection() {
 		try (InputStream input = new FileInputStream(path)) {
 			Properties properties = new Properties();
 			properties.load(input);
@@ -28,9 +37,10 @@ public class DbHandler {
 			String schema = properties.getProperty("db.schema");
 			String user = properties.getProperty("db.user");
 			String password = properties.getProperty("db.password");
-			
-			connection = DriverManager.getConnection(jdbcUrl + schema, user, password);
-			
+			if (connection == null || connection.isClosed()) {
+				connection = DriverManager.getConnection(jdbcUrl + schema, user, password);
+			}
+
 		} catch (FileNotFoundException e) {
 			logger.error("Il file di properties non e' stato trovato: " + path, e);
 		} catch (IOException e) {
@@ -38,16 +48,8 @@ public class DbHandler {
 		} catch (ClassNotFoundException e) {
 			logger.error("JBDC driver non trovato", e);
 		} catch (SQLException e) {
-			logger.error("Connessione al database non riucita", e);
+			logger.error("Connessione non riuscita ", e);
 		}
-	}
-	
-	public static DbHandler getInstance() {
-		return instance;
-	}
-	
-	public Connection getConnection() {
 		return connection;
 	}
-
 }
